@@ -1,4 +1,19 @@
-p{
-  color: red;
-  text-align: center;
+p {
+    color: red;
+    text-align: center;
+}
+
+#Logo_Html {
+    text-align: center;
+    /* centraliza horizontalmente */
+    margin-top: 40px;
+    /* espaço do topo (opcional) */
+}
+
+
+/* Opcional: definir tamanho da imagem */
+
+#Logo_Html img {
+    width: 200px;
+    /* ajuste como quiser */
 }
